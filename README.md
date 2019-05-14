@@ -1,16 +1,13 @@
 # startup_namer
 
-A new Flutter project.
+You've written an interactive Flutter app that runs on both iOS and Android. In this codelab, you've:
 
-## Getting Started
+Written Dart code.
+Used hot reload for a faster development cycle.
+Implemented a stateful widget, adding interactivity to your app.
+Created a route and added logic for moving between the home route and the new route.
+Learned about changing the look of your app's UI using themes.
 
-This project is a starting point for a Flutter application.
+## source
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2
